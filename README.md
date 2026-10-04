@@ -296,7 +296,8 @@ Perfect for **live demonstrations** to professors!
 - **Dengesiz sınıflar**: Class weights kullanıldı
 - **Embedding trainable=False**: Word2Vec ağırlıkları sabit tutuldu (fine-tuning için True yapılabilir)
 
-
+Yazar: Ertuğrul TAŞKIRAN
+github: https://github.com/ertugrultaskiran
 ## 📚 Kaynaklar
 
 - [Gensim Word2Vec Documentation](https://radimrehurek.com/gensim/models/word2vec.html)
