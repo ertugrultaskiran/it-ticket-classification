@@ -297,9 +297,6 @@ Perfect for **live demonstrations** to professors!
 - **Dengesiz sınıflar**: Class weights kullanıldı
 - **Embedding trainable=False**: Word2Vec ağırlıkları sabit tutuldu (fine-tuning için True yapılabilir)
 
-## 👨‍💻 Yazar
-
-Bitirme Projesi - Topic Modelling with NLP
 
 ## 📚 Kaynaklar
 
