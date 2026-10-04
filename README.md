@@ -307,9 +307,6 @@ Bitirme Projesi - Topic Modelling with NLP
 - [Keras LSTM Guide](https://keras.io/api/layers/recurrent_layers/lstm/)
 - [Scikit-learn TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
-## 📄 Lisans
-
-Bu proje eğitim amaçlıdır.
 
 
 
